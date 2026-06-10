@@ -164,29 +164,6 @@ Database  → MongoDB
 Animation → Framer Motion + Three.js
 Charts    → Plotly + Recharts
 ```
-
----
-
-## Architecture
-
-```txt id="77z2xq"
-artifacts/
-│
-├── futurescape/
-│   ├── src/
-│   ├── components/
-│   ├── pages/
-│   └── styles/
-│
-├── api-server/
-│   ├── routes/
-│   ├── controllers/
-│   ├── lib/
-│   └── middleware/
-│
-└── database/
-```
-
 ---
 
 ## Running The Project
