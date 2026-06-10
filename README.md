@@ -23,9 +23,6 @@ The platform transforms imagination into intelligent simulations.
 
 ![Screenshot 2026-06-10 022752](https://github.com/user-attachments/assets/591e2026-3157-4618-8317-1a647db77a4c)
 
-![Screenshot 2026-06-10 022752](https://github.com/user-attachments/assets/cc546442-3b64-499e-977d-7224786e70d9)
-
-
 Imagine asking:
 
 ```txt id="xf8ns4"
@@ -36,6 +33,8 @@ What if smartphones never existed?
 ```
 
 and receiving a fully generated alternate future complete with timeline evolution, societal impacts, AI-generated news, economic consequences, and futuristic visual reports.
+
+![Screenshot 2026-06-10 022752](https://github.com/user-attachments/assets/cc546442-3b64-499e-977d-7224786e70d9)
 
 ---
 
